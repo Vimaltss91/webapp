@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  sparkApp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-05-06T13:36:13.228086+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 98251fb94a74ba24ae927dc843df15391681289f19ea1774b594fa8006718e49
+    name: sparkApp
+    type: application
+    urls:
+    - https://vimaltss91.github.io/webapp/sparkApp-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-05-06T13:36:13.2251574+05:30"
